@@ -60,7 +60,8 @@ export const gnollClans = ["Yipfang", "Chompjaw", "Barkhide", "Rattleclaw", "How
 
 
 //====================================== RACES ======================================
-export const races = ["Human", "Elf", , "Dwarf", "Halfing", "Gnome", "Tiefling", "Orc", "Goblin", "Kobold", "Bugbear", "Hobgoblin", "Gnoll"];
+// export const villainRaces = ["Human", "Elf", , "Dwarf", "Halfing", "Gnome", "Tiefling", "Orc", "Goblin", "Kobold", "Bugbear", "Hobgoblin", "Gnoll"];
+// export const races = ["Human", "Elf", , "Dwarf", "Halfing", "Gnome", "Tiefling"];
 
 //===================================== QUIRKS ======================================
 export const quirks = ["Nervous", "Mutters to themselves", "Collects oddities", "Fidgeter", "Superstitious", "Absent-minded", "Very literal", "Mischievous", "Dislikes mirrors", "Monotone", "Enthusiastic", "Easily distracted", "Suspicious", "Incorrigible Optimist", "Bashful", "Cantankerous", "Straight to the point", "Overly Formal", "Magical Thinker", "Very Friendly"];
