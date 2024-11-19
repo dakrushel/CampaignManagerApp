@@ -4,7 +4,8 @@ export default function AddNew({functionsList}){
         style={{borderColor: "#193E19"}}>
             <button type="button" 
                 className="text-3xl w-full h-full leading-none drop-shadow-sm"
-                style={{color: "#FFB325", background: "#105b10"}}>+</button>
+                style={{color: "#FFB325", background: "#105b10"}}
+                onClick = {() => functionsList(true)}>+</button>
         </div>
     )
 }
